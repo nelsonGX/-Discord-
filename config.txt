@@ -1,0 +1,5 @@
+#Copyright: Nelson's URL shorten.
+
+prefix: +
+domain: example.com
+token: yourtokenhere
